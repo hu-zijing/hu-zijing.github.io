@@ -21,20 +21,17 @@ My research interests mainly revolve around Generative Models (particularly imag
 
 ## Experience
 
-* **Aug. 2024 - Present, Zhejiang University**
-Ph.D student, College of Computer Science and Technology, advised by [Prof. Kun Kuang](https://kunkuang.github.io/).
+**Aug. 2024 - Present, Zhejiang University**
+* Ph.D student, majoring in Computer Science and Technology, advised by [Prof. Kun Kuang](https://kunkuang.github.io/).
 
-* **Sep. 2020 - Jun. 2024, Zhejiang University**
-Undergrad, College of Computer Science and Technology, GPA: 4.65/5.0.
+**Sep. 2020 - Jun. 2024, Zhejiang University**
+* Undergrad, majoring in Computer Science and Technology, GPA: 4.65/5.0.
 
 ## Publications
 
 > \*Equal Contribution. †Corresponding Author.
 
-* **Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**
-
-**Zijing Hu**\*, Fengda Zhang\*, Long Chen, Kun Kuang†, Jiahui Li, Kaifeng Gao, Jun Xiao, Xin Wang, Wenwu Zhu
-*CVPR*, 2025
+**Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**
 
 <div>
 
@@ -42,6 +39,10 @@ Undergrad, College of Computer Science and Technology, GPA: 4.65/5.0.
 [![code](https://img.shields.io/badge/code-B2--DiffuRL-blue)](https://github.com/hu-zijing/B2-DiffuRL)&nbsp;
 
 </div>
+
+* **Zijing Hu**\*, Fengda Zhang\*, Long Chen, Kun Kuang†, Jiahui Li, Kaifeng Gao, Jun Xiao, Xin Wang, Wenwu Zhu
+* *CVPR*, 2025
+
 
 ## Selected Honors
 
