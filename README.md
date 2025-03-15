@@ -1,9 +1,11 @@
 # Zijing Hu
 
 <div>
+
 [![email](https://img.shields.io/badge/Email-zj.hu-29abfd)](mailto:zj.hu@zju.edu.cn)&nbsp;
 [![github](https://img.shields.io/badge/Github-hu--zijing-white)](https://github.com/hu-zijing)&nbsp;
 [![orcid](https://img.shields.io/badge/ORCID-zijing_hu-a6ce39)](https://orcid.org/0009-0007-6167-3996)&nbsp;
+
 </div>
 
 ## About
@@ -27,14 +29,18 @@ Undergrad, College of Computer Science and Technology, GPA: 4.65/5.0.
 
 ## Publications
 
-> $^*$Equal Contribution. $^†$Corresponding Author.
+> \*Equal Contribution. †Corresponding Author.
 
 * **Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**
-**Zijing Hu**$^*$, Fengda Zhang$^*$, Long Chen, Kun Kuang$^†$, Jiahui Li, Kaifeng Gao, Jun Xiao, Xin Wang, Wenwu Zhu
+
+**Zijing Hu**\*, Fengda Zhang\*, Long Chen, Kun Kuang†, Jiahui Li, Kaifeng Gao, Jun Xiao, Xin Wang, Wenwu Zhu
 *CVPR*, 2025
+
 <div>
+
 [![arXiv](https://img.shields.io/badge/arxiv_paper-x.x-b31b1b)](https://arxiv.org)&nbsp;
 [![code](https://img.shields.io/badge/code-B2--DiffuRL-blue)](https://github.com/hu-zijing/B2-DiffuRL)&nbsp;
+
 </div>
 
 ## Selected Honors
