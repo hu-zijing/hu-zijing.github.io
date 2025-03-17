@@ -35,7 +35,7 @@ My research interests mainly revolve around Generative Models (particularly imag
 
 <div>
 
-[![arXiv](https://img.shields.io/badge/arxiv_paper-x.x-b31b1b)](https://arxiv.org)&nbsp;
+[![arXiv](https://img.shields.io/badge/arxiv-2503.11240-b31b1b)](https://arxiv.org/abs/2503.11240)&nbsp;
 [![code](https://img.shields.io/badge/code-B2--DiffuRL-blue)](https://github.com/hu-zijing/B2-DiffuRL)&nbsp;
 
 </div>
