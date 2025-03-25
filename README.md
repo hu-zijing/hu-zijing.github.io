@@ -10,7 +10,7 @@
 
 ## About
 
-I am a Ph.D student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Kun Kuang](https://kunkuang.github.io/). 
+I am a Ph.D student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by [A.P. Kun Kuang](https://kunkuang.github.io/). 
 
 My research interests mainly revolve around Generative Models (particularly image generation) and Causal Inference.
 
@@ -22,7 +22,7 @@ My research interests mainly revolve around Generative Models (particularly imag
 ## Experience
 
 **Aug. 2024 - Present, Zhejiang University**
-* Ph.D student, majoring in Computer Science and Technology, advised by [Prof. Kun Kuang](https://kunkuang.github.io/).
+* Ph.D student, majoring in Computer Science and Technology, advised by [A.P. Kun Kuang](https://kunkuang.github.io/).
 
 **Sep. 2020 - Jun. 2024, Zhejiang University**
 * Undergrad, majoring in Computer Science and Technology, GPA: 4.65/5.0.
