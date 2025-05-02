@@ -10,19 +10,20 @@
 
 ## About
 
-I am a Ph.D student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by [A.P. Kun Kuang](https://kunkuang.github.io/). 
+I am a Ph.D student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by [A.P. Kun Kuang](https://scholar.google.com/citations?user=FOsNiMQAAAAJ). 
 
 My research interests mainly revolve around Generative Models (particularly image generation) and Causal Inference.
 
 ## News
 
+* [May 2025] One paper was accepted by **ICML 2025**.
 * [Feb. 2025] One paper was accepted by **CVPR 2025**.
 * [Jun. 2024] I received my BS degree from Zhejiang University. 
 
 ## Experience
 
 **Aug. 2024 - Present, Zhejiang University**
-* Ph.D student, majoring in Computer Science and Technology, advised by [A.P. Kun Kuang](https://kunkuang.github.io/).
+* Ph.D student, majoring in Computer Science and Technology, advised by [A.P. Kun Kuang](https://scholar.google.com/citations?user=FOsNiMQAAAAJ).
 
 **Sep. 2020 - Jun. 2024, Zhejiang University**
 * Undergrad, majoring in Computer Science and Technology, GPA: 4.65/5.0.
@@ -30,6 +31,19 @@ My research interests mainly revolve around Generative Models (particularly imag
 ## Publications
 
 > \*Equal Contribution. †Corresponding Author.
+
+**D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples**
+
+<div>
+
+*paper and code will come soon.* 
+
+</div>
+
+* **Zijing Hu**\*, Fengda Zhang\*, Kun Kuang†
+* *ICML*, 2025
+
+---
 
 **Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**
 
