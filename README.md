@@ -8,19 +8,19 @@
 
 </div>
 
-## About
+## 🧑🏻‍💻 About
 
 I am a Ph.D student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by [A.P. Kun Kuang](https://scholar.google.com/citations?user=FOsNiMQAAAAJ). 
 
 My research interests mainly revolve around Generative Models (particularly image generation) and Causal Inference.
 
-## News
+## 💬 News
 
 * [May 2025] One paper was accepted by **ICML 2025**.
 * [Feb. 2025] One paper was accepted by **CVPR 2025**.
 * [Jun. 2024] I received my BS degree from Zhejiang University. 
 
-## Experience
+## 💼 Experience
 
 **Aug. 2024 - Present, Zhejiang University**
 * Ph.D student, majoring in Computer Science and Technology, advised by [A.P. Kun Kuang](https://scholar.google.com/citations?user=FOsNiMQAAAAJ).
@@ -28,7 +28,7 @@ My research interests mainly revolve around Generative Models (particularly imag
 **Sep. 2020 - Jun. 2024, Zhejiang University**
 * Undergrad, majoring in Computer Science and Technology, GPA: 4.65/5.0.
 
-## Publications
+## 📄 Publications
 
 > \*Equal Contribution. †Corresponding Author.
 
@@ -58,13 +58,13 @@ My research interests mainly revolve around Generative Models (particularly imag
 * *CVPR*, 2025
 
 
-## Selected Honors
+## 🎖️ Selected Honors
 
 * **Outstanding Graduate** of Zhejiang Province, 2024
 * **Second-class Scholarship** of Zhejiang University, 2023
 * **National Scholarship** issued by Ministry of Education of the People's Republic of China, 2022
 * **First-class Scholarship** of Zhejiang University, 2022
 
-## Acknowledgement
+## 🫶🏻 Acknowledgement
 
 This repository is built with much reference to the templates of [Jon Barron](https://github.com/jonbarron/website) and [Zijun Wang](https://github.com/asillycat/asillycat.github.io). 
