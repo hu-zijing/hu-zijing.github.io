@@ -39,6 +39,7 @@ My research interests mainly revolve around Generative Models (particularly imag
 <!-- *paper and code will come soon.*  -->
 [![arXiv](https://img.shields.io/badge/arxiv-2505.22002-b31b1b)](https://arxiv.org/abs/2505.22002)&nbsp;
 [![code](https://img.shields.io/badge/code-D--Fusion-blue)](https://github.com/hu-zijing/D-Fusion)&nbsp;
+[![poster](https://img.shields.io/badge/poster-D--Fusion-teal)](images/poster/D-Fusion.png)&nbsp;
 
 </div>
 
