@@ -28,9 +28,23 @@ My research interests mainly revolve around Generative Models (particularly imag
 **Sep. 2020 - Jun. 2024, Zhejiang University**
 * Undergrad, majoring in Computer Science and Technology, GPA: 4.65/5.0.
 
-## 📄 Publications
+## 📄 Selected Publications
 
 > \*Equal Contribution. †Corresponding Author.
+
+**Asynchronous Denoising Diffusion Models for Aligning Text-to-Image Generation**
+
+<div>
+
+[![arXiv](https://img.shields.io/badge/arxiv-2510.04504-b31b1b)](https://arxiv.org/abs/2510.04504)&nbsp;
+[![code](https://img.shields.io/badge/code-AsynDM-blue)](https://github.com/hu-zijing/AsynDM)&nbsp;
+
+</div>
+
+* **Zijing Hu**, Yunze Tong, Fengda Zhang, Junkun Yuan, Jun Xiao, Kun Kuang†
+* *Preprint*
+
+---
 
 **D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples**
 
