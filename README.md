@@ -3,6 +3,7 @@
 <div>
 
 [![email](https://img.shields.io/badge/Email-zj.hu-29abfd)](mailto:zj.hu@zju.edu.cn)&nbsp;
+[![google](https://img.shields.io/badge/Google_Scholar-zijing_hu-4285f4)](https://scholar.google.com/citations?user=gbaWDc8AAAAJ&hl=en)&nbsp;
 [![github](https://img.shields.io/badge/Github-hu--zijing-white)](https://github.com/hu-zijing)&nbsp;
 [![orcid](https://img.shields.io/badge/ORCID-zijing_hu-a6ce39)](https://orcid.org/0009-0007-6167-3996)&nbsp;
 
@@ -12,10 +13,11 @@
 
 I am a Ph.D student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by [A.P. Kun Kuang](https://scholar.google.com/citations?user=FOsNiMQAAAAJ). 
 
-My research interests mainly revolve around Generative Models (particularly image generation) and Causal Inference.
+My research interests mainly revolve around Generative Models (particularly image generation), Reinforcement Learning, and Causal Inference.
 
 ## 💬 News
 
+* [Jan. 2026] One paper was accepted by **ICLR 2026**.
 * [May 2025] One paper was accepted by **ICML 2025**.
 * [Feb. 2025] One paper was accepted by **CVPR 2025**.
 * [Jun. 2024] I received my BS degree from Zhejiang University. 
@@ -42,7 +44,7 @@ My research interests mainly revolve around Generative Models (particularly imag
 </div>
 
 * **Zijing Hu**, Yunze Tong, Fengda Zhang, Junkun Yuan, Jun Xiao, Kun Kuang†
-* *Preprint*
+* *ICLR*, 2026
 
 ---
 
