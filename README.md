@@ -4,7 +4,7 @@
 
 [![email](https://img.shields.io/badge/Email-zj.hu-29abfd)](mailto:zj.hu@zju.edu.cn)&nbsp;
 [![google](https://img.shields.io/badge/Google_Scholar-zijing_hu-4285f4)](https://scholar.google.com/citations?user=gbaWDc8AAAAJ&hl=en)&nbsp;
-[![github](https://img.shields.io/badge/Github-hu--zijing-white)](https://github.com/hu-zijing)&nbsp;
+[![github](https://img.shields.io/badge/GitHub-hu--zijing-white)](https://github.com/hu-zijing)&nbsp;
 [![orcid](https://img.shields.io/badge/ORCID-zijing_hu-a6ce39)](https://orcid.org/0009-0007-6167-3996)&nbsp;
 
 </div>
@@ -33,6 +33,20 @@ My research interests mainly revolve around Generative Models (particularly imag
 ## 📄 Selected Publications
 
 > \*Equal Contribution. †Corresponding Author.
+
+**Reinforcement Learning in Generative Multimodal AI: A Survey**
+
+<div>
+
+[![TechRxiv](https://img.shields.io/badge/techrxiv-10.36227-44a0d4)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177220347.74660208)&nbsp;
+[![code](https://img.shields.io/badge/code-MultimodalRL-blue)](https://github.com/hu-zijing/Awesome-Multimodal-RL)&nbsp;
+
+</div>
+
+* **Zijing Hu**\*, Junkun Yuan\*, Kairong Han, Yunze Tong, Shengyu Zhang, Fei Wu, Kun Kuang†
+* *Preprint*
+
+---
 
 **Asynchronous Denoising Diffusion Models for Aligning Text-to-Image Generation**
 
